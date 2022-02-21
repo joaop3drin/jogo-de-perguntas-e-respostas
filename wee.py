@@ -23,6 +23,6 @@ for pk, pv in  perguntas.items():
     for rk, rv in pv['respostas'].items():
         print(f'{rk}) {rv}')
 
-        respostau = input('digite sua resposta: ')
-        print()
+    respostau = input('digite sua resposta: ')
+     print()
 
